@@ -1,10 +1,10 @@
 # Neuralcoreference Resolution
 
-This code is taken from the production ready repository of [@huggingface]([https://github.com/huggingface/neuralcoref](https://github.com/huggingface/neuralcoref)) and augmented for memory models.
+This code is taken from the production ready repository of [@huggingface](https://github.com/huggingface/neuralcoref) and augmented for memory models.
 
 ## How to train the neural coreference model
 
-Please check the following  [detailed blog post](https://medium.com/huggingface/how-to-train-a-neural-coreference-model-neuralcoref-2-7bb30c1abdfe) from [@huggingface]([https://github.com/huggingface/neuralcoref](https://github.com/huggingface/neuralcoref)) together with these short notes.
+Please check the following  [detailed blog post](https://medium.com/huggingface/how-to-train-a-neural-coreference-model-neuralcoref-2-7bb30c1abdfe) from [@huggingface](https://github.com/huggingface/neuralcoref) together with these short notes.
 
 ## Install
 
